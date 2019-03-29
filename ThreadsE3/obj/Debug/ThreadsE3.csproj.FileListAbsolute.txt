@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\ThreadsE3\ThreadsE3\bin\Debug\ThreadsE3.exe.config
+C:\Users\delya\source\repos\ThreadsE3\ThreadsE3\bin\Debug\ThreadsE3.exe
+C:\Users\delya\source\repos\ThreadsE3\ThreadsE3\bin\Debug\ThreadsE3.pdb
+C:\Users\delya\source\repos\ThreadsE3\ThreadsE3\obj\Debug\ThreadsE3.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\ThreadsE3\ThreadsE3\obj\Debug\ThreadsE3.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\ThreadsE3\ThreadsE3\obj\Debug\ThreadsE3.exe
+C:\Users\delya\source\repos\ThreadsE3\ThreadsE3\obj\Debug\ThreadsE3.pdb
