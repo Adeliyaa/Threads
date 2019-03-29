@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\ThreadArray\ThreadArray\bin\Debug\ThreadArray.exe.config
+C:\Users\delya\source\repos\ThreadArray\ThreadArray\bin\Debug\ThreadArray.exe
+C:\Users\delya\source\repos\ThreadArray\ThreadArray\bin\Debug\ThreadArray.pdb
+C:\Users\delya\source\repos\ThreadArray\ThreadArray\obj\Debug\ThreadArray.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\ThreadArray\ThreadArray\obj\Debug\ThreadArray.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\ThreadArray\ThreadArray\obj\Debug\ThreadArray.exe
+C:\Users\delya\source\repos\ThreadArray\ThreadArray\obj\Debug\ThreadArray.pdb
