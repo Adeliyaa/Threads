@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\ThreadE4\ThreadE4\bin\Debug\ThreadE4.exe.config
+C:\Users\delya\source\repos\ThreadE4\ThreadE4\bin\Debug\ThreadE4.exe
+C:\Users\delya\source\repos\ThreadE4\ThreadE4\bin\Debug\ThreadE4.pdb
+C:\Users\delya\source\repos\ThreadE4\ThreadE4\obj\Debug\ThreadE4.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\ThreadE4\ThreadE4\obj\Debug\ThreadE4.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\ThreadE4\ThreadE4\obj\Debug\ThreadE4.exe
+C:\Users\delya\source\repos\ThreadE4\ThreadE4\obj\Debug\ThreadE4.pdb
