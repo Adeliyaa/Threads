@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\ThreadExample1\ThreadExample1\bin\Debug\ThreadExample1.exe.config
+C:\Users\delya\source\repos\ThreadExample1\ThreadExample1\bin\Debug\ThreadExample1.exe
+C:\Users\delya\source\repos\ThreadExample1\ThreadExample1\bin\Debug\ThreadExample1.pdb
+C:\Users\delya\source\repos\ThreadExample1\ThreadExample1\obj\Debug\ThreadExample1.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\ThreadExample1\ThreadExample1\obj\Debug\ThreadExample1.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\ThreadExample1\ThreadExample1\obj\Debug\ThreadExample1.exe
+C:\Users\delya\source\repos\ThreadExample1\ThreadExample1\obj\Debug\ThreadExample1.pdb
